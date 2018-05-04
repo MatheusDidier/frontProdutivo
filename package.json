@@ -1,0 +1,24 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "Projeto front produtivo",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusDidier/frontProdutivo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusDidier/frontProdutivo/issues"
+  },
+  "homepage": "https://github.com/MatheusDidier/frontProdutivo#readme"
+}
