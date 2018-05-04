@@ -7,9 +7,12 @@
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodesass": "node-sass"
   },
   "repository": {
     "type": "git",
